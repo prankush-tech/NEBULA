@@ -1,6 +1,6 @@
 # NEBULA
 # <a href="https://prankush-nebula.netlify.app/login">GO LIVE</a>
-A website to UPLOAD,SAVE,DELETE,COMMENT PHOTOES By any person having GOOGLE Account
+## A FULL STACK website to UPLOAD,SAVE,DELETE,COMMENT PHOTOES By any person having GOOGLE Account. (REACT FIREBASE SANITY.IO)
 
 
 
