@@ -1,4 +1,4 @@
-# NEBULA
+# NEBULA (React,Sanity,GoogleAuth2.0,Firebase)
 # <a href="https://prankush-nebula.netlify.app/login">GO LIVE</a>
 ## A FULL STACK website to UPLOAD,SAVE,DELETE,COMMENT PHOTOES By any person having GOOGLE Account. (REACT FIREBASE SANITY.IO)
 
